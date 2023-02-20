@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bottom Nav</string>
+    <string name="home">Home</string>
+    <string name="menu_analytics">Analytics</string>
+    <string name="menu_payments">Payments</string>
+    <string name="open_drawer">Open door</string>
+    <string name="close_drawer">Close door</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Budget App</string>
+    <string name="welcome_to_budgetbabe">Welcome to BudgetBabe</string>
+    <string name="tag_line">Don\'t make your money go with the wind. Start controlling your money, I am with you every step of the way</string>
+    <string name="register">Don\'t have an account? Sign up.</string>
+    <string name="_2000">$2000</string>
+    <string name="login">login</string>
+</resources>
